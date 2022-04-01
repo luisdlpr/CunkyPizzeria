@@ -10,13 +10,17 @@ As mentioned the tool implements linked lists and structs in the C language.  Fu
 ![data structure](images/data_structure.png)
 
 Here are some screenshots demonstrating the operation of the application.
-
+![screenshot](images/Screenshot.png)
 
 
 ## Installation and Operation Instructions
 ### Installation
+1. Clone the Repository
+2. Compile pizzeria.c and main.c using your compiler, for example using gcc (assuming it is installed on your system): `dcc -o cunkypizzeria pizzeria.c main.c`\
+3. Run the executable: `./cunkypizzeria`
 
 ### Operation
+![help](images/Operation.png)
 
 ## Credits
 University Course Administrators (not listed to avoid academic misconduct) for providing the assignment concept and starter code.
