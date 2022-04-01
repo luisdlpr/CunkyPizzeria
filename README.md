@@ -24,3 +24,4 @@ Here are some screenshots demonstrating the operation of the application.
 
 ## Credits
 University Course Administrators (not listed to avoid academic misconduct) for providing the assignment concept and starter code.
+ 
